@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/crt-op/genis-mint/0.1.1/static/css/main.a617e044.chunk.css",
-    "main.js": "/crt-op/genis-mint/0.1.1/static/js/main.4b61cf3a.chunk.js",
-    "runtime-main.js": "/crt-op/genis-mint/0.1.1/static/js/runtime-main.33947b0e.js",
-    "static/css/2.b5f9dda7.chunk.css": "/crt-op/genis-mint/0.1.1/static/css/2.b5f9dda7.chunk.css",
-    "static/js/2.fac2758f.chunk.js": "/crt-op/genis-mint/0.1.1/static/js/2.fac2758f.chunk.js",
+    "main.js": "/crt-op/genis-mint/0.1.1/static/js/main.5492d56d.chunk.js",
+    "runtime-main.js": "/crt-op/genis-mint/0.1.1/static/js/runtime-main.525fbf7d.js",
+    "static/css/2.56d20c57.chunk.css": "/crt-op/genis-mint/0.1.1/static/css/2.56d20c57.chunk.css",
+    "static/js/2.6ba3afe2.chunk.js": "/crt-op/genis-mint/0.1.1/static/js/2.6ba3afe2.chunk.js",
     "index.html": "/crt-op/genis-mint/0.1.1/index.html",
-    "static/css/2.b5f9dda7.chunk.css.map": "/crt-op/genis-mint/0.1.1/static/css/2.b5f9dda7.chunk.css.map",
+    "static/css/2.56d20c57.chunk.css.map": "/crt-op/genis-mint/0.1.1/static/css/2.56d20c57.chunk.css.map",
     "static/css/main.a617e044.chunk.css.map": "/crt-op/genis-mint/0.1.1/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.fac2758f.chunk.js.LICENSE.txt": "/crt-op/genis-mint/0.1.1/static/js/2.fac2758f.chunk.js.LICENSE.txt",
+    "static/js/2.6ba3afe2.chunk.js.LICENSE.txt": "/crt-op/genis-mint/0.1.1/static/js/2.6ba3afe2.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/crt-op/genis-mint/0.1.1/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.33947b0e.js",
-    "static/css/2.b5f9dda7.chunk.css",
-    "static/js/2.fac2758f.chunk.js",
+    "static/js/runtime-main.525fbf7d.js",
+    "static/css/2.56d20c57.chunk.css",
+    "static/js/2.6ba3afe2.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.4b61cf3a.chunk.js"
+    "static/js/main.5492d56d.chunk.js"
   ]
 }
