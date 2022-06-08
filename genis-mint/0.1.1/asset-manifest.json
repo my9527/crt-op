@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crt-op/genis-mint/0.1.1/static/css/main.a617e044.chunk.css",
-    "main.js": "/crt-op/genis-mint/0.1.1/static/js/main.10e53c12.chunk.js",
+    "main.js": "/crt-op/genis-mint/0.1.1/static/js/main.4b61cf3a.chunk.js",
     "runtime-main.js": "/crt-op/genis-mint/0.1.1/static/js/runtime-main.33947b0e.js",
     "static/css/2.b5f9dda7.chunk.css": "/crt-op/genis-mint/0.1.1/static/css/2.b5f9dda7.chunk.css",
     "static/js/2.fac2758f.chunk.js": "/crt-op/genis-mint/0.1.1/static/js/2.fac2758f.chunk.js",
@@ -16,6 +16,6 @@
     "static/css/2.b5f9dda7.chunk.css",
     "static/js/2.fac2758f.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.10e53c12.chunk.js"
+    "static/js/main.4b61cf3a.chunk.js"
   ]
 }
